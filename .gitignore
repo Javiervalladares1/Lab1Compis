@@ -1,0 +1,4 @@
+configs
+program/__pycache__
+**/__pycache__
+program/.pytest_cache

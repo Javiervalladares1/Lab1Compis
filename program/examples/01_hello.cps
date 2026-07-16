@@ -1,0 +1,11 @@
+print("Hola Compiscript");
+print(42);
+print(true);
+let x: integer = 10;
+let y: integer = 4;
+print(x + y * 2);
+print(x - y);
+print(x / y);
+print(x % y);
+print(x > y);
+print("x = " + x);
